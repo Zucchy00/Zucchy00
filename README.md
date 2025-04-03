@@ -9,6 +9,9 @@ So gradually I increased my skills starting from the basics of C to using pointe
 After a while, I started enjoying learning other programming languages as python🐍 and :yellow_circle:Javascript.<br/>
 I got into more the world of websites by starting learning :orange_circle:Svelte and Sveltekit, with it i started my journey of full-stack developing :window:web apps and :globe_with_meridians:websites.
 <br/>
+### Graduation
+I graduated from ITIS Pietro Paleocapa in 2024.
+<br/>
 ### Contests
 Introducing myself to the world of Linux🐧and raspberry pi by creating this :robot:[Mecanum robot with Sveltekit interface](https://github.com/Zucchy00/MecanumPi) which placed me second 🏆 in the contest called [Hackergen](https://projects.hackersgen.com/2024) in the 2024 edition.
 <br/>
